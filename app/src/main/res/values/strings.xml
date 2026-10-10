@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nova</string>
+    <string name="a11y_desc">Lets Nova read ride prices and tap confirm buttons after you say yes.</string>
+</resources>
